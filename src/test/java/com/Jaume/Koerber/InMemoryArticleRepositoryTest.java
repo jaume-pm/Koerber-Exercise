@@ -2,7 +2,6 @@ package com.Jaume.Koerber;
 
 import com.Jaume.Koerber.models.Article;
 import com.Jaume.Koerber.repositories.ArticleRepository;
-import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
